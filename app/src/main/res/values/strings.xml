@@ -3,4 +3,6 @@
     <string name="main_button_consult">Consultar</string>
     <string name="main_button_create">Crear Cupon</string>
     <string name="main_text_title">Bienvenido, ingrese su cupon y a continuacion presione en consultar</string>
+    <string name="main_hint_coupon">Cupón</string>
+    <string name="main_hint_description">Descripcion</string>
 </resources>
