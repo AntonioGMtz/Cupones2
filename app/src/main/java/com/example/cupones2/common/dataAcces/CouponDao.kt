@@ -1,8 +1,9 @@
-package com.example.cupones2
+package com.example.cupones2.common.dataAcces
 
 import androidx.room.Dao
 import androidx.room.Insert
 import androidx.room.Query
+import com.example.cupones2.common.entities.CouponEntity
 
 
 @Dao

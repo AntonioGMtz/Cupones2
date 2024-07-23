@@ -1,7 +1,8 @@
-package com.example.cupones2
+package com.example.cupones2.common.dataAcces
 
 import androidx.room.Database
 import androidx.room.RoomDatabase
+import com.example.cupones2.common.entities.CouponEntity
 
 /*
 * @Database(entities = [CouponEntity::class], version = 1): Esta anotación define la clase como una base de datos Room.
